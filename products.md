@@ -4,7 +4,7 @@ title: Products
 subtitle: How much do different products categories impact on global emissions?
 ---
 
-It is well known that some foods have a much more significant impact on emissions than others: this aspect is sometimes called the [*carbon footprint*](https://en.wikipedia.org/wiki/Carbon_footprint). In this section we assess the impact of different categories of products on global emissions quantities in agricultural activities.
+It is well known that some foods have a much more significant impact on emissions than others: this aspect is sometimes called the [*carbon footprint*](https://en.wikipedia.org/wiki/Carbon_footprint). In this section we assess the impact of different categories of products on global emissions amounts in agricultural activities.
 
 # Beef and Buffalo Meat
 
@@ -17,6 +17,7 @@ Beef (and Buffalo) meat has a relevant carbon footprint, caused both by the feed
 Australia, New Zealand and South American countries are historically those which produce and export a huge volume of beef meat.
 
 <div class="flourish-embed" data-src="visualisation/1127426"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+*Data are reported in CO2 equivalent kilograms per kilogram of product.*
 
 # Sheep and Goat Meat
 
@@ -29,6 +30,7 @@ Sheep and Goat meat is by far the category with the highest carbon footprint: it
 Australia and New Zealand, above all, are the major producers, together with Iceland and Mongolia: harsh climate conditions in these last two countries are unsuitable for breeding larger animals, but are good for sheeps.
 
 <div class="flourish-embed" data-src="visualisation/1127448"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+*Data are reported in CO2 equivalent kilograms per kilogram of product.*
 
 # Eggs
 
@@ -41,6 +43,7 @@ Eggs are the best source of protein as for carbon footprint: most of the emissio
 Netherlands and Israel are the countries which produce the highest amount of eggs per capita: while Israel was leader in the 1960s, their roles have recently reversed, with Netherlands being by far the top producer.
 
 <div class="flourish-embed" data-src="visualisation/1127428"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+*Data are reported in CO2 equivalent kilograms per kilogram of product.*
 
 # Cereals
 
@@ -53,6 +56,7 @@ Cereals are by far the most consumed product category in the world: this categor
 Australia, Denmark and Canada are among the major per capita producers.
 
 <div class="flourish-embed" data-src="visualisation/1127437"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+*Data are reported in CO2 equivalent kilograms per kilogram of product.*
 
 # Fibre Crops
 
@@ -65,3 +69,4 @@ This category is not strictly related to food, but is part of the agriculture se
 Plantations in South America and Africa are relevant for historical reasons, but recently other countries are starting to produce relevant quantities of fibre crops.
 
 <div class="flourish-embed" data-src="visualisation/1127441"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+*Data are reported in CO2 equivalent kilograms per kilogram of product.*
