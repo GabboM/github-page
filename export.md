@@ -14,7 +14,7 @@ In order to provide a further insight on such controversial theme, we dug into t
 If we investigate in what are the countries that are both present in the top 15 exporting and importing nations, we note that none among the most polluting ones only China and USA are present in the list.
 All the other countries are mainly European countries that trade between each other.
 
-Here above you can see the countries that trade the most.
+
 As we can notice small countries such as UAE, Luxemburg or other European countries are on top for the ratio between export and production. 
 If we then consider the total export values, we can retrieve some of the most debated countries as the United States or Brazil, but China and India are still out of the top ten and further in the ranking.
 If we look at their export data, we notice that they only a minimal part of their production is exported to other countries. Both China’s and India’s exports don’t even reach the 5 % of over their total production.
