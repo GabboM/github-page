@@ -82,6 +82,6 @@ Plantations in South America and Africa are relevant for historical reasons, but
 
 In conclusion, you can see here the composition of total per capita emissions related to agriculture with respect to the different categories analysed above.
 
-<iframe id="graph" src="pie_emissions.html" width="800" height="500" frameborder="0"></iframe>
+<iframe id="graph" src="emissions.html" width="800" height="500" frameborder="0"></iframe>
 
 *Note on Machine Learning algorithm: estimates for carbon footprint coefficients have been computed by fitting a Ridge Regression model over normalized data.*
