@@ -31,5 +31,6 @@ Here you can finally see how these clusters look like in three different periods
 <div class="iframe-container">
     <iframe id="graph" src="country_clustering.html" width="1000" height="500"  frameborder="0">
 </div>
-    
+    .
+
 Our major interest is in the behaviour of those countries which are involved the most in CO2 emissions. From the map and the plots above, we can see how they generally suffer from Matthew Effect. This leads to consider these countries as top level not only in terms of agriculture and livestock prodcution, and CO2 emissions, but also in terms of income inequality.
