@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Countries Clustering
+title: Global Inequalities
 subtitle: Are resources produced by a country equally distributed among citizens?
 ---
 
