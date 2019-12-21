@@ -14,7 +14,7 @@ The [**Matthew Effect**](https://en.wikipedia.org/wiki/Matthew_effect) is a quit
 
 ![](plots/time_series.png)
 
-*The blue line in the plot showed above represents the percentage of total amount of income that is earned by the bottom 50% percent (the poorest) of the population of a given country, while the orange one shows the percentage earned by the Top 1% (the richest). 
+*The blue line in the plot showed above represents the percentage of total amount of income that is earned by the bottom 50% percent (the poorest) of the population of a given country, while the orange one shows the percentage earned by the Top 1% (the richest).*
 
 These plots well explain the effect we were describing above, which is evolving faster and faster in recent years. While European countries (that have France as a representative country) managed to contain the phenomenon, developing countries like China or India are having great issues in controlling it. Interestingly, United States have a situation nearer to developing countries than to big economies like European ones: the gap between the rich and the poor part of the population is becoming more and more wide in recent years. Finally, Russian situation clearly describes what happened after the end of URRS.
 
