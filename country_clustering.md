@@ -31,5 +31,5 @@ Our major interest is in the behaviour of those countries which are involved the
 *Note: cluster 0 is assigned to countries for which data are not available.*
 
 <div class="iframe-container">
-    <iframe id="graph" src="country_clustering.html" width="1000" height="500"  frameborder="0">
+    <iframe id="graph" src="country_clustering.html" width="800" height="500"  frameborder="0">
 </div>
