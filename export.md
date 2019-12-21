@@ -8,11 +8,11 @@ When looking at the emissions in agriculture, some countries perform noticeably 
 
 In order to provide further insights on such controversial theme, we dig into the FAO trade indices. Countries trading activities in agricultural products are evaluated both for absolute value of import/export and for values normalized on their total production. Countries that are main players in the agriculture trade economy will be on top of such ranking.
 
-The first of the two rankings below analyzes the centrality of world countries according to their trade absolute values. USA, Germany and Japan are the main players; however, such result is highly dependent on the size of the country and its production capacity. Therefore, countries centrality is also evaluated by considering the export/production ratio: in this second ranking, results drastically change, and top positions are occupied by European countries, which highly benefit from the European Single Market to increase their relevance. 
-
 ![](plots/Rankings.png)
 
 *All the data refers to the average in period 2000-2017*
+
+The first of the two rankings below analyzes the centrality of world countries according to their trade absolute values. USA, Germany and Japan are the main players; however, such result is highly dependent on the size of the country and its production capacity. Therefore, countries centrality is also evaluated by considering the export/production ratio: in this second ranking, results drastically change, and top positions are occupied by European countries, which highly benefit from the European Single Market to increase their relevance. 
 
 As we can see, among the most polluting countries, only China ad USA are present in top positions of these ranking: in particular, the absolute value of their trades is considerable, but becomes less relevant if we look at it with respect to the total production. Moreover, some of the most debated countries such as Brazil or India are out of both top-tens.
 
