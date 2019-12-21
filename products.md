@@ -72,12 +72,16 @@ Australia, Denmark and Canada are among the major per capita producers.
 * Carbon footprint: 30.7 CO2 kg
 * Total per capita emissions: 147 CO2 kg
 
-This category is not strictly related to food, but is part of the agriculture sector: it includes vegetal fibres used to produce thread and yarn that are manufactured into fabrics. Their relevant carbon footprint makes fibres play an important role in agriculture-related emissions.
+This category is not strictly related to food, but is part of the agriculture sector: it includes vegetal fibres (such as cotton) used to produce thread and yarn that are manufactured into fabrics. Their relevant carbon footprint makes fibres play an important role in agriculture-related emissions.
 
 Plantations in South America and Africa are relevant for historical reasons, but recently other countries are starting to produce relevant quantities of fibre crops.
 
 *Data below on per capita production are reported in kilograms.*
 
 <div class="flourish-embed" data-src="visualisation/1127441"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+In conclusion, you can see here the composition of total per capita emissions related to agriculture with respect to the different categories analysed above.
+
+
 
 *Note on Machine Learning algorithm: estimates for carbon footprint coefficients have been computed by fitting a Ridge Regression model over normalized data.*
