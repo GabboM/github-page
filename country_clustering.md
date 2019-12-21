@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Inequalities
-subtitle: Are resources produced by a country equally distributed among citizens?
+subtitle: Are resources produced by countries equally distributed among their citizens?
 ---
 
 In this section, we study how income is distributed in different countries in the world.
