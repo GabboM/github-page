@@ -4,7 +4,7 @@ title: Countries Clustering
 subtitle: Are resources produced by a country equally distributed among citizens?
 ---
 
-In this section, we study how income is distributed in the different countries in the world.
+In this section, we study how income is distributed in different countries in the world.
 
 Indeed, we have just found out how some countries are more responsible for the production in terms of crops and livestock. Production activities causes emission of CO2, which is one of the main causes of Climate Change. 
 
@@ -24,13 +24,12 @@ As we have seen, not all countries show similar patterns. Here we would like to 
 
 ![](plots/time_series2.png)
 
-Here you can finally see how these clusters look like in three different periods of time. It can be easily spotted how today the European countries are clustered together, such as most of the developing countries like Brazil or India.
+At the end of the page, you can finally see how these clusters look like in three different periods of time. It can be easily spotted how today the European countries are clustered together, such as most of the developing countries like Brazil or India.
+
+Our major interest is in the behaviour of those countries which are involved the most in CO2 emissions. From the map and the plots presented here, we can see how they generally suffer from Matthew Effect. This leads to consider these countries as top level not only in terms of agriculture and livestock prodcution, and CO2 emissions, but also in terms of income inequality.
 
 *Note: cluster 0 is assigned to countries for which data are not available.*
 
 <div class="iframe-container">
     <iframe id="graph" src="country_clustering.html" width="1000" height="500"  frameborder="0">
 </div>
-    .
-
-Our major interest is in the behaviour of those countries which are involved the most in CO2 emissions. From the map and the plots above, we can see how they generally suffer from Matthew Effect. This leads to consider these countries as top level not only in terms of agriculture and livestock prodcution, and CO2 emissions, but also in terms of income inequality.
