@@ -20,7 +20,7 @@ description: Data Story for ADA Project - EPFL 2019
 
 # List of links in the navigation bar
 navbar-links:
-  Country Clustering: "country_clustering"
+  Countries Clustering: "country_clustering"
   Import/Export:
     - Import: "import"
     - Export: "export"
@@ -61,10 +61,10 @@ footer-link-col: "#19A000"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Acquati Francesco,
-        Del Sole Claudio,
-        Macchi Gabriele,
-        Vicentini Marco
+  name: Francesco Acquati,
+        Claudio Del Sole,
+        Gabriele Macchi,
+        Marco Vicentini
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
