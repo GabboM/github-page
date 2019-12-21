@@ -18,7 +18,7 @@ Wealth inequality, global warming and natural resources exploitation are some of
 The effect of agriculture will be evaluated by measuring the produced carbon dioxide, the use of fertilizers, whether resources are equally distributed on the production chain and eventually how these affect the availability of natural resources. Both the influence of single products and single countries on these matters will be assessed. This will provide us insights on which nations play a key role in contributing to climate change.
 
 Start exploring our project:
-* [An overview of FAO dataset]({% link overview.md %}): Agriculture production and emissions in the last 20 years.
-* [Global Inequalities]({% link country_clustering.md %}): Are resources produced by countries equally distributed among their citizens?
-* [International Trade]({% link export.md %}): Which are the most important countries as for international trade on agricultural products?
-* [Products Carbon Footprint]({% link products.md %}): How much do different products categories impact on global emissions?
+* [An overview of FAO dataset]({% link github-page/overview.md %}): Agriculture production and emissions in the last 20 years.
+* [Global Inequalities]({% link github-page/country_clustering.md %}): Are resources produced by countries equally distributed among their citizens?
+* [International Trade]({% link github-page/export.md %}): Which are the most important countries as for international trade on agricultural products?
+* [Products Carbon Footprint]({% link github-page/products.md %}): How much do different products categories impact on global emissions?
