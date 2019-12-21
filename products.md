@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Products
+title: Products Carbon Footprint
 subtitle: How much do different products categories impact on global emissions?
 ---
 
 It is well known that some foods have a much more significant impact on emissions than others: this aspect is sometimes called the [*carbon footprint*](https://en.wikipedia.org/wiki/Carbon_footprint). In this section we assess the impact of different categories of products on global emissions amounts in agricultural activities.
 
-# Beef and Buffalo Meat
+There is no direct way to exactly compute carbon footprint: these values are usually built up by imputation of total emissions values to the different products, according to various parameters and more general considerations. Since we only have aggregate data, our approach has been to apply instead Machine Leaning techniques (see footnote).
+
+Hereunder, you can find carbon footprint data and a short description for those categories of products which have a significant impact on total emissions related to agriculture.
+
+## Beef and Buffalo Meat
 
 * Annual per capita consumption: 9.71 kg
 * Carbon footprint: 29.9 CO2 kg
@@ -20,7 +24,7 @@ Australia, New Zealand and South American countries are historically those which
 
 <div class="flourish-embed" data-src="visualisation/1127426"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-# Sheep and Goat Meat
+## Sheep and Goat Meat
 
 * Annual per capita consumption: 1.93 kg
 * Carbon footprint: 77.6 CO2 kg
@@ -34,7 +38,7 @@ Australia and New Zealand, above all, are the major producers, together with Ice
 
 <div class="flourish-embed" data-src="visualisation/1127448"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-# Eggs
+## Eggs
 
 * Annual per capita consumption: 9.44 kg
 * Carbon footprint: 9.37 CO2 kg
@@ -48,7 +52,7 @@ Netherlands and Israel are the countries which produce the highest amount of egg
 
 <div class="flourish-embed" data-src="visualisation/1127428"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-# Cereals
+## Cereals
 
 * Annual per capita consumption: 357 kg
 * Carbon footprint: 0.452 CO2 kg
@@ -62,7 +66,7 @@ Australia, Denmark and Canada are among the major per capita producers.
 
 <div class="flourish-embed" data-src="visualisation/1127437"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-# Fibre Crops
+## Fibre Crops
 
 * Annual per capita consumption: 4.30 kg
 * Carbon footprint: 30.7 CO2 kg
@@ -75,3 +79,5 @@ Plantations in South America and Africa are relevant for historical reasons, but
 *Data below on per capita production are reported in kilograms.*
 
 <div class="flourish-embed" data-src="visualisation/1127441"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+*Note on Machine Learning algorithm: estimates for carbon footprint coefficients have been computed by fitting a Ridge Regression model over normalized data.*
