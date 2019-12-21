@@ -8,4 +8,4 @@ FAO dataset is plenty of data, and it can lead to many different kinds of insigh
 
 Before digging into further analyses, let's first have a look at which data are available for world countries. The interactive map below summarizes the data cleaning process, showing the world situation in the last 20 years. We took into consideration many different indicators: Crops and Livestock Production quantities and related Emissions are the most relevant for this project, and you can navigate among them hereunder.
 
-<iframe id="graph" src="summary.html" width="800" height="500" frameborder="0"></iframe>
+<iframe id="graph" src="summary.html" width="800" height="500" frameborder="0"></iframe> 
