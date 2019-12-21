@@ -21,9 +21,7 @@ description: Data Story for ADA Project - EPFL 2019
 # List of links in the navigation bar
 navbar-links:
   Inequalities: "country_clustering"
-  Import/Export:
-    - Import: "import"
-    - Export: "export"
+  Trade: "export"
   Products: "products"
   
 
